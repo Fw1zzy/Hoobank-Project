@@ -1,8 +1,8 @@
-# React + Vite
+Hoobank is a landing page website that provides information about its features, transactions, paying methods and many more.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Credits for the design goes to SM Feroj from figma
+<br/>
+FIGMA LINK DESIGN:
+<br/>
+https://www.figma.com/community/file/1227560835659149296/hoobank
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
